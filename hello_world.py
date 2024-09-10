@@ -1,8 +1,5 @@
-def print_hello():
-    print('Hello, World!')
-
-def print_What():
-    print(" What This Work space")
-    
-if __name__ == '__main__':
-    print_hello()
+def print():
+    print("이건 print")
+def add(x,y):
+    a= x + y
+    return a
