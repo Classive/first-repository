@@ -1,5 +1,5 @@
-def print_hello():
-    print("Hello World!!")
+def print_goodBYE():
+    print("GOOD BYE, TECHMO!")
 
 if __name__ == '__main__':
-    print_hello()
+    print_goodBYE()
